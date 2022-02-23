@@ -131,3 +131,5 @@ dmypy.json
 
 #kate
 *.kate-swp
+
+history.sqlite*
